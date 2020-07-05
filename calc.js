@@ -36,11 +36,11 @@ describe('Protractor app test', () =>{
     
     // Set up each test in a fresh session 
     beforeEach(() => {
-        browser.get('http://juliemr.github.io/protractor-demo/');
+        browser.get('http://www.way2automation.com/angularjs-protractor/calc/');
     });
 
     it('Should have a title', () => {
-        expect(browser.getTitle()).toEqual('Super Calculator');
+        expect(browser.getTitle()).toEqual('Protractor practice website - Calculator');
     });
 
     it('Should have a history', () => {
