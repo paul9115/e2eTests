@@ -3,7 +3,7 @@
 end to end browser tests running on the protractor/jasmine framework 
 
 ### Dependencies 
-Requires npm, and protractor 
+Requires npm, java and protractor 
 you can install node [HERE](https://nodejs.org/en/) 
 
 then install the node package 
